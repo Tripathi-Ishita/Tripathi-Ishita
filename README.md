@@ -19,14 +19,14 @@
 
 ### 🌱 About me
 
-I build web and mobile applications, and I'm currently working on LLM-powered
+I work with web-apps(Angular) and build mobile applications, and I'm currently working on LLM-powered
 systems — retrieval pipelines and multi-agent orchestration.
 
 - 🏥 Spent 11 months at **Stryker** building an enterprise web application in
   **Angular + TypeScript** — took a proof of concept to production, and optimised
   **15 GB file uploads** by offloading chunking and hashing to Web Workers
 - 🤖 Built a **RAG + multi-agent learning assistant** with LangGraph, ChromaDB and FastAPI
-- 📱 Cross-platform mobile apps in **React Native** and **Flutter**
+- 📱 Mobile apps in **React Native** and **Flutter**- cross- platform frameworks
 - 🧩 **500+** problems solved on LeetCode in C++
 
 
