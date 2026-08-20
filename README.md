@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Open_to_SDE_roles-6C7CE7?style=for-the-badge" />
 <a href="https://www.linkedin.com/in/tripathiishita8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Guzzleguts/"><img src="https://img.shields.io/badge/LeetCode_470%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Guzzleguts/"><img src="https://img.shields.io/badge/LeetCode_500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="mailto:tripathiishita98@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -61,9 +61,4 @@ systems — retrieval pipelines and multi-agent orchestration.
 
 ---
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tripathi-Ishita&show_icons=true&hide_border=true&theme=default&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tripathi-Ishita&layout=compact&hide_border=true&theme=default" height="150" />
-
-</div>
